@@ -9,7 +9,7 @@ import sbp.api.Sneaker;
 
 import io.dropwizard.hibernate.AbstractDAO;
 import java.util.List;
-import jersey.repackaged.com.google.common.base.Optional;
+import org.hibernate.Criteria;
 import org.hibernate.SessionFactory;
 /**
  *

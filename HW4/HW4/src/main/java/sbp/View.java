@@ -19,7 +19,6 @@ public class View {
     public static String createSneakerJSON(String app) {
         return app;
     }
-    
     public static String successMessage() {
         return "{'message': 'success'}";
     }

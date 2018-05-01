@@ -10,7 +10,6 @@ import javax.persistence.NamedQueries;
 import javax.persistence.NamedQuery;
 import javax.persistence.Table;
 import javax.validation.constraints.NotNull;
-import jersey.repackaged.com.google.common.base.MoreObjects;
 import org.hibernate.validator.constraints.Length;
 
 //Representation class for a sneaker
